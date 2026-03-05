@@ -1,0 +1,8 @@
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.csproj.AssemblyReference.cache
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.AssemblyInfoInputs.cache
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.AssemblyInfo.cs
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.csproj.CoreCompileInputs.cache
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/svnth/Desktop/sterling/Backend/Ecommerce.Api/obj/Debug/net8.0/Ecommerce.Api.sourcelink.json
