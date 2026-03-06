@@ -1,8 +1,6 @@
-import { Product, CartItem } from '../types';
+import type { Product, CartItem } from '../types';
 
-const API_BASE = 'http://localhost:5038/api'; // Or 5000/5001 depending on launch settings. Let's assume standard app.Run() minimal API port or we'll configure it.
-// Default .NET 8 HTTP port is usually 5000, let's use a dynamic one or default
-const getBaseUrl = () => 'http://localhost:5000/api';
+const getBaseUrl = () => 'http://localhost:5023/api';
 
 export const api = {
     getProducts: async (): Promise<Product[]> => {
